@@ -37,5 +37,5 @@
 
 [twitter]: https://twitter.com/SawaliyaDiksh
 [instagram]: https://www.instagram.com/diksh_sawaliya/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]:
 [linkedin]: https://www.linkedin.com/in/diksh-sawaliya-6111381a7/
