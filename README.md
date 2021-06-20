@@ -1,7 +1,6 @@
 ### Hi there, I'm Diksh 👋
 
-## I'm a Student , Noob Coder and a Guitarist !!
-
+## Just an Engineer 💻 with Strings 🎸 
 - 🔭 I'm currenty pursuing my Bachelors in Engeenering
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking for inspirations and role models to look upon in the field of engeering 
