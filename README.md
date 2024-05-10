@@ -1,11 +1,11 @@
 ### Hi there, I'm Diksh 👋
 
 ## Just an Engineer 💻 with Strings 🎸 
-- 🔭 I'm currenty pursuing my Bachelors in Engeenering
-- 🌱 I’m currently learning everything 
+- 🔭 I'm currenty worling at Yatra Online Ltd.
+- 🌱 Associate ENgineer (Android Developer) at Hughes Systique
 - 👯 I’m looking for inspirations and role models to look upon in the field of engeering 
-- 🥅 I'm a game developer and had done 2 Projects and currently working on my own game
-- ⚡ 2021 Goals: Contribute more to Open Source projects 
+- 🥅 Do side projects to enhance my skills and tech stack 
+- ⚡ 2024 Goals: Contribute more to new projects 
 
 ### Connect with me:
 
